@@ -43,15 +43,19 @@
 </table>
 
 
-<img height="50" alt="My Name is Rainer and I like you" src="images/technical skills.svg.svg" />
+<img height="50" alt="My Name is Rainer and I like you" src="images/technical skills.svg" />
 
-**Languages** ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+**Languages** <br />
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=ffffff)
 
-**Frameworks & Libraries** ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+<br />
+
+**Frameworks & Libraries** <br />
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
@@ -59,7 +63,10 @@
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-%23DB7093?style=flat-square&logo=styled-components&logoColor=ffffff)
 ![GSAP](https://img.shields.io/badge/-GSAP-%2388CE02?style=flat-square&logo=greensock&logoColor=ffffff)
 
-**Tools & Software** ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
+<br />
+
+**Tools & Software** <br />
+![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
 ![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-%239999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=ffffff)
 ![After Effects](https://img.shields.io/badge/-After_Effects-%239999FF?style=flat-square&logo=adobe-after-effects&logoColor=ffffff)
 ![Unity](https://img.shields.io/badge/-Unity-%23000000?style=flat-square&logo=unity&logoColor=ffffff)
@@ -69,13 +76,5 @@
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
-
-<!-- ![Visitor Count](https://profile-counter.glitch.me/Imbr3m/count.svg)
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" /> -->
 
 </div>
